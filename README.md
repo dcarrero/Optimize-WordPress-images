@@ -1,4 +1,4 @@
-# Image Optimizer Terminal
+# Optimize WordPress images
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![bash](https://img.shields.io/badge/language-bash-green.svg)](https://www.gnu.org/software/bash/)
